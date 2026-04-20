@@ -1,0 +1,8 @@
+﻿Pro-Line Licitaciones
+Versión : v0.2.2
+Build   : 2026-04-20 13:26
+
+Instrucciones de uso:
+1. Ejecuta Pro-Line.exe
+2. Conéctate a los sitios desde el Dashboard
+3. Usa el Scraper General para obtener licitaciones

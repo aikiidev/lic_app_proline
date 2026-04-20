@@ -1,0 +1,12 @@
+# Archivos creados en runtime — no subir
+sessions.json
+settings.json
+google_credentials.json
+key.key
+*.log
+*_blacklist.json
+*_trimwords.json
+licitaciones.xlsx
+capturas_ariba/
+capturas_katu/
+capturas_bhp/
